@@ -1,3 +1,5 @@
 # Default ignored files
 /workspace.xml
 /python_qa_pytest
+!/python_qa_pytest/0_pytest_intro
+
